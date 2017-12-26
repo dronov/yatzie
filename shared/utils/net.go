@@ -1,7 +1,7 @@
 package util
 
 import (
-	"github.com/tucnak/telebot"
+	"gopkg.in/tucnak/telebot.v1"
 	"io"
 	"io/ioutil"
 	"log"
